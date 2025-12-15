@@ -1,3 +1,3 @@
 namespace proGames {
-    // icon="\uf005"
+    // color=#400080 icon="\uf005"
 }
